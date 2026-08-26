@@ -208,20 +208,6 @@ This prototype deliberately leaves out several real-world requirements:
 * Deployment to a public testnet
 * CI-based contract testing and static analysis
 
-## GitHub Upload
-
-Recommended repository name:
-
-`Carbon-Credit-Trading-Platform`
-
-Suggested topics:
-
-`blockchain` `solidity` `carbon-credits` `carbon-trading` `ethereum` `smart-contract` `hardhat` `ethersjs` `web3` `climate-tech`
-
-## Disclaimer
-
-This repository is an educational software prototype. Simulated carbon credits in this project are not certified offsets, do not represent ownership of environmental assets, and should not be marketed or sold as real carbon credits.
-
 ## Author
 
 Rohit Singh — GitHub: https://github.com/rohitsingh83
