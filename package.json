@@ -1,0 +1,18 @@
+{
+  "name": "carbon-credit-trading-platform",
+  "version": "1.0.0",
+  "private": true,
+  "description": "An educational simulation of tokenized carbon-credit issuance, trading, and retirement.",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "node": "hardhat node",
+    "deploy:local": "hardhat run scripts/deploy.js --network localhost",
+    "demo": "http-server docs -p 4173"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.15",
+    "http-server": "^14.1.1"
+  }
+}
